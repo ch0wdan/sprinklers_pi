@@ -1,7 +1,7 @@
 // sysreset.cpp
 // System Reset wrapper
-// Author: Richard Zimmerman
-// Copyright (c) 2013 Richard Zimmerman
+// Author: Jordan de Geus
+// Copyright (c) 2015 This is a forked version of Richard Zimmerman's OpenSprinkler done by Jordan de Geus
 //
 
 #include "sysreset.h"

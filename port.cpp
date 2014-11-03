@@ -1,8 +1,8 @@
 // port.cpp
 // This file defines certain functions necessary to port the original
 //  AVR (e.g. Arduino) system to a more standard Linux based (e.g. Raspberry Pi) system.
-// Author: Richard Zimmerman
-// Copyright (c) 2013 Richard Zimmerman
+// Author: Jordan de Geus
+// Copyright (c) 2015 This is a forked version of Richard Zimmerman's OpenSprinkler done by Jordan de Geus
 //
 
 #include "port.h"

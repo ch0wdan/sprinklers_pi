@@ -1,7 +1,7 @@
 // Logging.h
 // This manages the Logging to SQL for the Sprinkling System.
-// Author: Richard Zimmerman
-// Copyright (c) 2013 Richard Zimmerman
+// Author: Jordan de Geus
+// Copyright (c) 2015 This is a forked version of Richard Zimmerman's OpenSprinkler done by Jordan de Geus
 //
 
 #ifndef LOGGING_H_
