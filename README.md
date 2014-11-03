@@ -3,6 +3,12 @@ sprinklers_pi
 
 Sprinkling System Control Program for the Raspberry Pi
 
+Installation from Linux
+sudo apt-get install g++
+sudo apt-get install gcc
+sudo apt-get install libsqlite3-dev
+-user must install wiringPi: http://wiringpi.com/download-and-install/
+
 
 TODO: 
   Readme:
